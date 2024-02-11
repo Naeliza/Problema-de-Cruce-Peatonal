@@ -53,7 +53,7 @@ Si encuentras algún problema o tienes alguna sugerencia para mejorar este servi
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia MIT](LICENSE).
+Este proyecto está bajo la [Licencia MIT](https://github.com/Naeliza/Problema-de-Cruce-Peatonal/blob/master/LICENSE.txt).
 
 # ¿Interesado/da en aprender más?
 
