@@ -45,7 +45,7 @@ dotnet add package System.Net.WebSockets
 
 ## Repositorio del cliente
 
-[Cliente-WebSocket](https://github.com/Naeliza/Problema-de-Cruce-Peatonal-Cliente]) 
+[Cliente-WebSocket](https://github.com/Naeliza/Problema-de-Cruce-Peatonal-Cliente)
 
 ## Contribución
 
