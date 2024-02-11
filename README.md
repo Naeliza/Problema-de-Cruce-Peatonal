@@ -1,6 +1,10 @@
-# Problema de Cruce Peatonal SERVICIO
+# Problema de Cruce Peatonal SERVICIO:
 
-Este proyecto contiene un servidor WebSocket en C# que simula dos semaforos y informa al peaton cuando puede cruzar.
+Este proyecto contiene un servidor WebSocket en C# que simula dos semaforos e informa al peaton cuando puede cruzar.
+
+# Descripción:
+
+En un cruce peatonal muy transitado, hay semáforos para peatones y vehículos. Diseña un sistema de semáforos que coordine el paso seguro de peatones y vehículos, evitando conflictos y asegurando un flujo eficiente del tráfico.
 
 ## Requisitos
 
@@ -41,7 +45,7 @@ dotnet add package System.Net.WebSockets
 
 ## Repositorio del cliente
 
-[Cliente-WebSocket](https://github.com/Naeliza/Cliente-WebSocket) 
+[Cliente-WebSocket](https://github.com/Naeliza/Problema-de-Cruce-Peatonal-Cliente]) 
 
 ## Contribución
 
